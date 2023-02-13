@@ -1,0 +1,40 @@
+.body
+{
+    background-color: hsl(0, 0%, 95%);
+    font-size: 15px;
+    font-family:'Josefin Sans', sans-serif;
+}
+.container {
+    display: flex;
+    background-color:#E8E2E2;
+    width: 1000px;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 250px;
+    border-radius: 5%;
+ }
+ .column {
+    width: 40%;
+    height: auto;
+    padding: 25px;
+    align-items: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+  }
+p{
+    text-align: left;
+    color: hsla(0, 0%, 100%, 0.75)
+}
+h1
+{
+text-transform: uppercase;
+color: hsl(0, 0%, 95%);
+}
+button
+{
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 95%);
+    margin-top: 30px;
+    border: 0;
+}
